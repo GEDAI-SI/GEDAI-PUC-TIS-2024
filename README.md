@@ -19,7 +19,10 @@ O projeto visa abordar a lacuna de conscientização sobre o agravamento das mud
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+**Tecnologias utilizadas**
+- **Back-end**:  [Java](https://www.oracle.com/br/java/technologies/downloads/#java17), [Maven](https://maven.apache.org/download.cgi)
+- **Front-end**: [React](https://angular.io/)
+- **Banco de Dados**: [MYSQL](https://dev.mysql.com/downloads/mysql)
 
 ## Histórico de versões
 
