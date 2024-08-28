@@ -1,4 +1,4 @@
-# Clima Insight
+# View Climate
 
 O objetivo do projeto é desenvolver uma aplicação web voltada para o monitoramento e conscientização sobre as mudanças climáticas e seus impactos no meio urbano. A plataforma irá coletar e analisar dados climáticos históricos, permitindo uma comparação entre as tendências atuais e o comportamento consumista da população. Através dessa análise, o sistema fornecerá recomendações práticas sobre como o meio urbano pode mitigar os impactos ambientais negativos. A aplicação busca não apenas informar sobre as alterações climáticas, mas também incentivar ações que promovam a sustentabilidade e a redução das emissões de gases de efeito estufa, contribuindo para um futuro mais sustentável e consciente.
 
