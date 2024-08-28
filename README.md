@@ -20,7 +20,7 @@ O projeto visa abordar a lacuna de conscientização sobre o agravamento das mud
 ## Instruções de utilização
 
 **Tecnologias utilizadas**
-- **Back-end**:  [Java](https://www.oracle.com/br/java/technologies/downloads/#java17), [Maven](https://maven.apache.org/download.cgi)
+- **Back-end**: [Spring Boot](https://spring.io/projects/spring-boot), [Java](https://www.oracle.com/br/java/technologies/downloads/#java17), [Maven](https://maven.apache.org/download.cgi)
 - **Front-end**: [React](https://react.dev/)
 - **Banco de Dados**: [MYSQL](https://dev.mysql.com/downloads/mysql)
 
