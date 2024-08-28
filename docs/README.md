@@ -1,25 +1,18 @@
-# TITULO DO PROJETO
+# View Climate
 
 
-**Nome completo do Aluno 1, email do aluno 1**
+## Integrantes
 
-**Nome completo do Aluno 2, email do aluno 2**
+* Guilherme Henrique Pereira Rocha
+* Gabriel de Assis Lopes Diniz
+* João Victor Santos Egydio
+* Raí Átila Cavalcante
+* Abdon França Neto
+* João Fellipe Alves de Moraes
 
-**Nome completo do Aluno 3, email do aluno 3**
+## Professor
 
-**Nome completo do Aluno 4, email do aluno 4**
-
-**Nome completo do Aluno 5, email do aluno 5**
-
----
-
-Professores:
-
-** Prof. Nome do Prof 1 **
-
-** Prof. Nome do Prof 2 **
-
-** Prof. Nome do Prof 3 **
+* Cleia Marcia Gomes Amaral
 
 ---
 
@@ -29,15 +22,15 @@ _Instituto de Informática e Ciências Exatas – Pontifícia Universidade Cató
 
 ---
 
-_**Resumo**. Escrever aqui o resumo. O resumo deve contextualizar rapidamente o trabalho, descrever seu objetivo e, ao final, 
-mostrar algum resultado relevante do trabalho (até 10 linhas)._
+**Resumo**<br>
+O sistema tem como objetivo monitorar e analisar dados climáticos históricos para destacar as tendências alarmantes de degradação ambiental e os impactos das mudanças climáticas, especialmente em regiões urbanas. Além de fornecer uma comparação dos padrões climáticos ao longo dos anos, a aplicação visa conscientizar a sociedade sobre os riscos iminentes e oferecer recomendações práticas para mitigar esses impactos. O foco é fornecer informações acessíveis e relevantes para apoiar ações sustentáveis e políticas de adaptação que possam ajudar a reduzir os efeitos adversos das mudanças climáticas a médio e longo prazo.
 
 ---
 
 
 ## 1. Introdução
 
-_Apresente uma frase introdutória definindo o que será apresentado._
+O objetivo do sistema é monitorar dados climáticos históricos e fornecer recomendações para mitigar os impactos das mudanças climáticas no meio urbano
 
 ### 1.1 Contextualização
 
