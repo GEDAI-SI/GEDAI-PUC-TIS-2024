@@ -3,7 +3,7 @@
 
 ## Integrantes
 
-* Guilherme Henrique Pereira Rocha
+* Guilherme Henrique Pereira Rocha, guilherme_h2006@hotmail.com
 * Gabriel de Assis Lopes Diniz
 * João Victor Santos Egydio
 * Raí Átila Cavalcante
