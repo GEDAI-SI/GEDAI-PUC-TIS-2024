@@ -34,31 +34,27 @@ O objetivo do sistema é monitorar dados climáticos históricos e fornecer reco
 
 ### 1.1 Contextualização
 
-_Na **contextualização**, o aluno deve dizer do que se trata o trabalho, em que área ou contexto se insere.
-A **contextualização** deve ser desenvolvida de algo mais genérico para algo mais específico. 
-A citação de pesquisas quantitativas é bem aceita aqui (corretamente referenciadas)._
+De acordo com a OMS, futuras mudanças climáticas podem causar cerca de 250.000 mortes em um período de 20 anos, de 2030 a 2050. É um problema catastrófico à médio prazo, se não conscientizado a tempo pode ser um problema irreparável. Nos últimos três anos, os dados sobre degradação climática revelam tendências alarmantes. As temperaturas globais continuaram a subir, com os anos de 2021 a 2023 figurando entre os mais quentes já registrados. Esse aquecimento coloca o planeta perigosamente próximo do limite de 1,5°C definido pelo Acordo de Paris. Regiões como Europa, América do Norte, partes da Ásia e da África experimentaram ondas de calor extremas, com temperaturas frequentemente ultrapassando os 40°C.
+O Brasil tem lidado com secas prolongadas, que são cada vez mais comuns. A bacia do Rio Paraná, por exemplo, enfrentou uma das piores secas em quase um século entre 2020 e 2023. Esse período de escassez hídrica afetou severamente a geração de energia hidrelétrica, que compõe cerca de 60% da matriz energética brasileira, resultando em alertas de crise energética e na necessidade de recorrer a usinas termoelétricas, que são mais caras e poluentes.
+referencias: ._
 
 ### 1.2 Problema
 
-_Em seguida o aluno deve caminhar a contextualização para descrever o **problema** que o trabalho trata. 
-O **problema** pode ser algo vivido em uma empresa específica. Neste caso, o aluno deve rapidamente apresentar 
-o cenário de problema da empresa. A empresa só deve ser citada explicitamente se o aluno tiver autorização 
-para tal._
+Falta para sociedade ter conhecimento da proporção que esse problema vem tomando a cada dia. Se compararmos com os anos anteriores é de se notar que não há melhores nesse aspecto. 
+Diversos fatores contribuem para a degradação climática, sendo o desmatamento um dos principais. A destruição de vastas áreas de floresta, especialmente na Amazônia, é frequentemente motivada por atividades como agricultura, pecuária e extração de madeira. O desmatamento não só reduz a capacidade de absorção de dióxido de carbono, essencial para a regulação do clima global, mas também libera grandes quantidades de carbono armazenado nas árvores, contribuindo diretamente para o efeito estufa.
 
 ### 1.3 Objetivo geral
 
-_O aluno deve escrever um pequeno parágrafo ou frase com o **objetivo geral** do trabalho. 
-O objetivo deve ser bem direto, específico e definido com verbos de ação (elaborar, propor, avaliar, comparar, etc.). No caso específico deste projeto, o objetivo deste trabalho é desenvolver um sistema para automação de processos para um problema específico._
+A aplicação se volta para atender no aspecto de monitoramento. A aplicação levantará dados climáticos dos últimos anos, fazendo uma comparação que mostre como o clima vem reagindo ao comportamento consumista da população. 
 
 #### 1.3.1 Objetivos específicos
 
-_Apresente também alguns (pelo menos 2) **objetivos específicos** dependendo de onde você vai querer 
-concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho._
+Exibir instruções de como o meio urbano pode agir para mitigar os impactos que os atuais comportamentos demonstram baseado nos dados climáticos armazenados.
+Conscientizar o meio urbano de seu impacto na degradação climática.
 
 ### 1.4 Justificativas
 
-_Mostre também as **justificativas** para o 
-desenvolvimento do seu trabalho e, caso deseje, destaque alguma contribuição do trabalho._
+O objetivo de desenvolvimento sustentável de número 13 é uma ameaça de médio prazo, por essa razão não recebe a atenção devida. Se tardar a tratativa, esse problema pode tomar proporções irreparáveis, por isso é fundamental que essa questão seja alertada a todo momento até que medidas sejam tomadas para resolver esse impasse.
 
 ## 2. Participantes do processo
 
