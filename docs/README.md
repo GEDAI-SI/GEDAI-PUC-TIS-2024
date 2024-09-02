@@ -58,7 +58,15 @@ O objetivo de desenvolvimento sustentável de número 13 é uma ameaça de médi
 
 ## 2. Participantes do processo
 
-_Apresente aqui os perfis dos usuários chave do sistema. Diversas são as informações que podem ser relevantes para a definição dos perfis dos usuários, tais como idade, gênero, aspectos culturais, nível de educação, entre outros. A pesquisa de mercado pode ser uma ferramenta poderosa para se identificar e caracterizar os perfis de usuários. Apresente claramente o papel a ser desempenhado por cada usuário._
+**Comunidade Urbana**
+
+Indivíduos de todas as idades, desde adolescentes a idosos, com variados níveis de educação e diferentes graus de interesse em questões ambientais.
+Papel: Os cidadãos utilizarão a plataforma para compreender como suas ações diárias impactam o meio ambiente. Eles poderão acessar recomendações práticas e personalizadas para reduzir sua pegada de carbono e adotar práticas mais sustentáveis no cotidiano.
+
+**Gestores Públicos**
+
+Profissionais que ocupam cargos em órgãos governamentais, responsáveis por planejar e implementar políticas públicas voltadas à mitigação dos efeitos das mudanças climáticas. Geralmente, têm idade superior a 30 anos, nível educacional avançado, e uma compreensão profunda sobre políticas ambientais e urbanas.
+Utilizarão o sistema para acessar relatórios detalhados sobre as mudanças climáticas em suas regiões, permitindo a tomada de decisões informadas na elaboração de políticas públicas de mitigação e adaptação climática.
 
 ## 3. Modelagem do processo de negócio
 
