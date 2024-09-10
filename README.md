@@ -1,8 +1,10 @@
 # View Climate
 
-O objetivo do projeto é desenvolver uma aplicação web voltada para o monitoramento e conscientização sobre as mudanças climáticas e seus impactos no meio urbano. A plataforma irá coletar e analisar dados climáticos históricos, permitindo uma comparação entre as tendências atuais e o comportamento consumista da população. Através dessa análise, o sistema fornecerá recomendações práticas sobre como o meio urbano pode mitigar os impactos ambientais negativos. A aplicação busca não apenas informar sobre as alterações climáticas, mas também incentivar ações que promovam a sustentabilidade e a redução das emissões de gases de efeito estufa, contribuindo para um futuro mais sustentável e consciente.
+O objetivo do projeto é desenvolver uma aplicação web para monitoramento, previsão e relatório sobre o uso e desempenho de energia solar em ambientes urbanos. A plataforma irá coletar e analisar dados climáticos históricos e em tempo real para prever a eficiência de sistemas solares, comparar tendências climáticas e fornecer relatórios detalhados sobre o impacto do uso de energia solar na redução das emissões de carbono.
 
-O projeto visa abordar a lacuna de conscientização sobre o agravamento das mudanças climáticas, destacando a necessidade urgente de intervenção. Ao oferecer dados atualizados e orientações práticas, a plataforma pretende sensibilizar a população e os gestores urbanos sobre a importância de adotar práticas ambientais responsáveis, alinhando-se ao Objetivo de Desenvolvimento Sustentável número 13 da ONU, que busca combater as mudanças climáticas e seus impactos.
+O sistema será capaz de alertar sobre manutenções preventivas e problemas técnicos em tempo real, além de oferecer previsões de desempenho solar, auxiliando os usuários a otimizar o uso dos seus painéis solares com base nas condições climáticas locais. Ao combinar essas funcionalidades com dados sobre o comportamento de consumo de energia, o aplicativo promoverá a conscientização sobre a sustentabilidade energética e incentivará ações que contribuam para a redução das emissões de gases de efeito estufa.
+
+Além disso, o projeto visa alinhar-se ao Objetivo de Desenvolvimento Sustentável número 13 da ONU, que busca combater as mudanças climáticas e seus impactos, incentivando o uso responsável de energia limpa e a adoção de práticas urbanas sustentáveis.
 
 ## Integrantes
 
