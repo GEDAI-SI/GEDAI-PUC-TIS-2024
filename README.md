@@ -1,4 +1,4 @@
-# View Climate
+# Solar Wise
 
 O objetivo do projeto é desenvolver uma aplicação web para monitoramento, previsão e relatório sobre o uso e desempenho de energia solar em ambientes urbanos. A plataforma irá coletar e analisar dados climáticos históricos e em tempo real para prever a eficiência de sistemas solares, comparar tendências climáticas e fornecer relatórios detalhados sobre o impacto do uso de energia solar na redução das emissões de carbono.
 
