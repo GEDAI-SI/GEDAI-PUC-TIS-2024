@@ -42,7 +42,7 @@ referencias: ._
 
 ### 1.2 Problema
 
-A falta de conhecimento sobre o potencial impacto da energia solar e sua relação com fatores climáticos impede que as pessoas façam um uso otimizado dessa fonte de energia. Muitos usuários urbanos desconhecem como pequenos ajustes em seus sistemas solares e em seu comportamento de consumo de energia podem gerar benefícios significativos, tanto ambientais quanto econômicos.
+A falta de conhecimento sobre o potencial impacto da energia solar e sua relação com fatores climáticos impede que as pessoas façam um uso otimizado dessa fonte de energia. Muitos usuários urbanos desconhecem como pequenos ajustes em seu comportamento de consumo de energia podem gerar benefícios significativos, tanto ambientais quanto econômicos.
 
 ### 1.3 Objetivo geral
 
