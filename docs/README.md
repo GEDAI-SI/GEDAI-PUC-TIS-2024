@@ -30,43 +30,44 @@ O sistema tem como objetivo monitorar e analisar dados climáticos históricos p
 
 ## 1. Introdução
 
-O objetivo do sistema é monitorar dados climáticos históricos e fornecer recomendações para mitigar os impactos das mudanças climáticas no meio urbano
+O objetivo do projeto é desenvolver uma aplicação web para monitoramento, previsão e relatório sobre o uso e desempenho de energia solar em ambientes urbanos
 
 ### 1.1 Contextualização
 
-De acordo com a OMS, futuras mudanças climáticas podem causar cerca de 250.000 mortes em um período de 20 anos, de 2030 a 2050. É um problema catastrófico à médio prazo, se não conscientizado a tempo pode ser um problema irreparável. Nos últimos três anos, os dados sobre degradação climática revelam tendências alarmantes. As temperaturas globais continuaram a subir, com os anos de 2021 a 2023 figurando entre os mais quentes já registrados. Esse aquecimento coloca o planeta perigosamente próximo do limite de 1,5°C definido pelo Acordo de Paris. Regiões como Europa, América do Norte, partes da Ásia e da África experimentaram ondas de calor extremas, com temperaturas frequentemente ultrapassando os 40°C.
-O Brasil tem lidado com secas prolongadas, que são cada vez mais comuns. A bacia do Rio Paraná, por exemplo, enfrentou uma das piores secas em quase um século entre 2020 e 2023. Esse período de escassez hídrica afetou severamente a geração de energia hidrelétrica, que compõe cerca de 60% da matriz energética brasileira, resultando em alertas de crise energética e na necessidade de recorrer a usinas termoelétricas, que são mais caras e poluentes.
+A conscientização sobre os efeitos das mudanças climáticas tem crescido nos últimos anos, mas ainda há um longo caminho a percorrer. O aquecimento global, impulsionado por atividades humanas como a queima de combustíveis fósseis e o desmatamento, trouxe à tona questões que afetam diretamente o equilíbrio do nosso planeta. Dados recentes mostram que as temperaturas globais estão aumentando rapidamente, ultrapassando limites críticos. Essa tendência não apenas agrava as condições ambientais, mas também coloca em risco a saúde e a qualidade de vida nas cidades.
+
+Uma das soluções mais promissoras para mitigar esses impactos é o uso de energias renováveis, como a energia solar. É crucial que a sociedade compreenda o impacto direto que a energia solar pode ter na redução das emissões de carbono e como a eficiência desses sistemas está diretamente relacionada às condições climáticas e ao uso responsável. O Photon Nest é uma ferramenta de conscientização, mostrando como o comportamento urbano pode influenciar a eficiência energética e auxiliar na luta contra as mudanças climáticas.
+
 referencias: ._
 
 ### 1.2 Problema
 
-Falta para sociedade ter conhecimento da proporção que esse problema vem tomando a cada dia. Se compararmos com os anos anteriores é de se notar que não há melhores nesse aspecto. 
-Diversos fatores contribuem para a degradação climática, sendo o desmatamento um dos principais. A destruição de vastas áreas de floresta, especialmente na Amazônia, é frequentemente motivada por atividades como agricultura, pecuária e extração de madeira. O desmatamento não só reduz a capacidade de absorção de dióxido de carbono, essencial para a regulação do clima global, mas também libera grandes quantidades de carbono armazenado nas árvores, contribuindo diretamente para o efeito estufa.
+A falta de conhecimento sobre o potencial impacto da energia solar e sua relação com fatores climáticos impede que as pessoas façam um uso otimizado dessa fonte de energia. Muitos usuários urbanos desconhecem como pequenos ajustes em seus sistemas solares e em seu comportamento de consumo de energia podem gerar benefícios significativos, tanto ambientais quanto econômicos.
 
 ### 1.3 Objetivo geral
 
-A aplicação se volta para atender no aspecto de monitoramento. A aplicação levantará dados climáticos dos últimos anos, fazendo uma comparação que mostre como o clima vem reagindo ao comportamento consumista da população. 
+A aplicação se volta para atender no aspecto de monitoramento. A aplicação levantará dados climáticos dos últimos anos, fazendo uma comparação que mostre como o clima vem reagindo ao comportamento da população. 
 
 #### 1.3.1 Objetivos específicos
 
-Exibir instruções de como o meio urbano pode agir para mitigar os impactos que os atuais comportamentos demonstram baseado nos dados climáticos armazenados.
-Conscientizar o meio urbano de seu impacto na degradação climática.
+Monitorar e exibir dados climáticos históricos e em tempo real para prever a eficiência dos sistemas solares.
+Conscientizar a população urbana sobre o impacto positivo do uso responsável da energia solar.
+Fornecer relatórios detalhados sobre a redução de emissões de carbono gerada pelos sistemas solares.
+Incentivar práticas sustentáveis que otimizem o uso dos painéis solares em relação às condições climáticas locais.
 
 ### 1.4 Justificativas
 
-O objetivo de desenvolvimento sustentável de número 13 é uma ameaça de médio prazo, por essa razão não recebe a atenção devida. Se tardar a tratativa, esse problema pode tomar proporções irreparáveis, por isso é fundamental que essa questão seja alertada a todo momento até que medidas sejam tomadas para resolver esse impasse.
+A mudança climática é um problema de médio e longo prazo, mas a conscientização e a ação imediata são essenciais para que possamos evitar catástrofes ambientais no futuro. O projeto Photon Nest alinha-se ao Objetivo de Desenvolvimento Sustentável (ODS) número 13 da ONU, que busca combater as mudanças climáticas e promover ações urgentes para reduzir suas consequências. A aplicação incentiva o uso consciente e responsável da energia solar, destacando sua importância como uma das ferramentas mais eficazes na luta contra o aquecimento global.
 
 ## 2. Participantes do processo
 
 **Comunidade Urbana**
 
-Indivíduos de todas as idades, desde adolescentes a idosos, com variados níveis de educação e diferentes graus de interesse em questões ambientais.
-Papel: Os cidadãos utilizarão a plataforma para compreender como suas ações diárias impactam o meio ambiente. Eles poderão acessar recomendações práticas e personalizadas para reduzir sua pegada de carbono e adotar práticas mais sustentáveis no cotidiano.
+Cidadãos que utilizam sistemas solares em suas residências. Eles acessarão a plataforma para entender como suas ações podem influenciar a eficiência do sistema e receber recomendações para otimizar o uso da energia solar com base em previsões climáticas.
 
 **Gestores Públicos**
 
-Profissionais que ocupam cargos em órgãos governamentais, responsáveis por planejar e implementar políticas públicas voltadas à mitigação dos efeitos das mudanças climáticas. Geralmente, têm idade superior a 30 anos, nível educacional avançado, e uma compreensão profunda sobre políticas ambientais e urbanas.
-Utilizarão o sistema para acessar relatórios detalhados sobre as mudanças climáticas em suas regiões, permitindo a tomada de decisões informadas na elaboração de políticas públicas de mitigação e adaptação climática.
+Órgãos públicos que formulam e implementam políticas de sustentabilidade e combate às mudanças climáticas. O sistema fornecerá relatórios sobre o impacto da energia solar em termos de emissões de carbono, auxiliando na formulação de políticas públicas de incentivo à energia limpa e sustentável.
 
 ## 3. Modelagem do processo de negócio
 
