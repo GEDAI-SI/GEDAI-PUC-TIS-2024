@@ -1,11 +1,12 @@
-### Processo 8: Cadastro de Painéis Solares
+## Processo 2: Cadastro de Painéis Solares 
+**Responsável**: Raí Átila Cavalcante
+**Aprovador**: Abdon França Neto 
 
-#### Requisitos Funcionais:
+O processo de cadastro de painéis solares envolve a inserção de informações sobre os equipamentos para que possam ser monitorados e gerenciados pelo sistema. 
 
-1. O sistema deve permitir o cadastro de painéis solares, registrando informações como modelo, fabricante, localização geográfica, data de instalação e capacidade de produção.
-2. O sistema deve associar cada painel solar a um usuário ou grupo de usuários, permitindo que apenas usuários autorizados monitorem e gerenciem os painéis.
+Registro de Painéis: O sistema permite o cadastro das seguintes informações: área, endereço, eficiência, modelo, horas de sol. 
 
-#### Requisitos Não Funcionais:
+Associação a Usuários: Cada painel será vinculado a um usuário, garantindo que apenas pessoas autorizadas possam monitorá-lo.
 
-1. **Compatibilidade:** O sistema deve suportar o cadastro de diferentes tipos de painéis solares de vários fabricantes e modelos, permitindo a interoperabilidade com sistemas de monitoramento e análise.
-2. **Usabilidade:** O processo de cadastro de painéis solares deve ser rápido e simples, permitindo que os usuários registrem um novo painel em menos de 2 minutos, com uma interface clara e fácil de navegar.
+### Refinamento Técnico:
+Assim que o processo 1 for finalizado o usuário será apresentado à página inicial, onde haverá um botão para realizar o cadastro de painel solar, após o usuário clicar no botão ele será redirecionado para o formulário de criação do mesmo. E após a finalização do cadastro do painel solar, o usuário será direcionado para a página de detalhes do painel solar.
