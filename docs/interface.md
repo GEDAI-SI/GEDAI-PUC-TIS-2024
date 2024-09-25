@@ -7,7 +7,7 @@ Visão geral da interação do usuário pelas telas do sistema. Apresente as pri
 
 Descrição da tela principal do sistema.
 
-![Tela principal do sistema](images/home.png)
+![Tela principal do sistema]()
 
 
 ## 6.1. Telas do processo 1
